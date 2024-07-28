@@ -1,5 +1,6 @@
 # Fury_DIY_Silencer
 usable for pistol and pistol_mk2
+**it will replace the original attachment**
 
 Name of the prop: Silencer for pistol and Pistol MK2
 Autor: Fury Shop
